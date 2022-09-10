@@ -1,5 +1,5 @@
 # 😎 About Me:
-Hello Connections !!!🌟🌟<br><br>I am Divyen Patil.<br><br>A Cybersecurity Enthusiast.👽👽👽<br>A passionate ,energetic and goal oriented computer engineering student ,who aims to be one of the<br>best professionalist of the IT world, and in order to achieve this goal I will utilize my knowledge and<br>skills to its fullest potential.💥💥💥<br><br>I am a kind of a quick leaner who continuously tries to learn new things and<br>develop not only my technical skills but all communication skills, and make best use of them for my<br>overall growth.
+Hello Connections !!!🌟🌟<br><br>I am Divyen Patil.😃😃<br><br>A Cybersecurity Enthusiast.👽👽👽<br>A passionate ,energetic and goal oriented computer engineering student ,who aims to be one of the<br>best professionalist of the IT world, and in order to achieve this goal I will utilize my knowledge and<br>skills to its fullest potential.💥💥💥<br><br>I am a kind of a quick leaner who continuously tries to learn new things and<br>develop not only my technical skills but all communication skills, and make best use of them for my<br>overall growth.
 
 
 ## 🌐 Socials:
