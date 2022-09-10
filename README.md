@@ -6,7 +6,7 @@ Hello Connections !!!🌟🌟<br><br>I am Divyen Patil.😃😃<br><br>A Cyberse
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Divyen) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Divyen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/divyen-patil) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@Divyenpatil) 
 
 # Ny Hobbies :
--Sketching 🎨
+-Sketching 🎨<br><br>
 -Travelling 🚕🚗🚍✈
 -Reading Informative Books 📕📗📘📙📒
 -Music 🎶🎵🎼🎧💙
