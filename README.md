@@ -1,162 +1,708 @@
-# Hi there, I'm Divyen Patil 👋
+<div align="center">
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0D60FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%40+TCS;Java+%7C+Spring+Boot+%7C+Microservices;Building+Scalable+Distributed+Systems;Passionate+about+System+Design+%26+GenAI">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,35:203A43,70:2C5364,100:6C63FF&text=Divyen%20Patil&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20|%20Java%20Backend%20Developer%20|%20Spring%20Boot%20Microservices&descAlignY=58&descSize=18"/>
+
+</div>
+
+<div align="center">
+
+# 👋 Hello World, I'm Divyen Patil
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1200&color=4F8EF7&center=true&vCenter=true&width=900&lines=Software+Engineer+%40+TCS;Java+Backend+Developer;Spring+Boot+%7C+Microservices;Distributed+Systems+Engineer;Kafka+%7C+Redis+%7C+Docker;System+Design+Enthusiast;AWS+Certified+AI+Practitioner;Always+Learning+New+Technologies+🚀" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="700">
+
+</div>
+
+---
+
+# 🚀 About Me
+
+```java
+public class DivyenPatil {
+
+    private final String role =
+            "Software Engineer @ Tata Consultancy Services";
+
+    private final String location =
+            "Maharashtra, India";
+
+    private final String specialization =
+            "Backend Development";
+
+    private final List<String> technologies =
+            List.of(
+                    "Java",
+                    "Spring Boot",
+                    "Microservices",
+                    "Kafka",
+                    "Redis",
+                    "Docker",
+                    "REST APIs"
+            );
+
+    private final String currentlyLearning =
+            "Kubernetes, Cloud Architecture, GenAI";
+
+    private final String lifePhilosophy =
+            "Keep learning. Keep building.";
+
+}
+```
+
+---
+
+# 💫 Who Am I?
+
+💻 Software Engineer with hands-on experience building enterprise backend applications.
+
+🚀 Passionate about scalable distributed systems and clean software architecture.
+
+🏦 Working on modernization of mission-critical stock market clearing systems.
+
+⚙️ Love designing REST APIs, solving production issues and optimizing performance.
+
+🌱 Currently diving deeper into
+
+- Kubernetes
+- Cloud Architecture
+- Event Driven Systems
+- GenAI
+- Large Language Models
+
+🎯 Goal
+
+Become an exceptional Backend Engineer capable of designing highly scalable distributed systems used by millions of users.
+
+---
+
+# ⚡ Current Focus
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🔭 Building Production Grade Microservices
+
+🌱 Learning Kubernetes
+
+☁ Mastering AWS
+
+🧠 Studying System Design
+
+⚡ Exploring Event Driven Architecture
+
+🤖 Building GenAI Applications
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://linkedin.com/in/divyen-patil">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:iamdivyen123@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Divyen-Patil">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://medium.com/@Divyenpatil">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium"/>
+</a>
+
+<a href="https://instagram.com/Divyen">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💼 Professional Snapshot
+
+<div align="center">
+
+| 💻 Role | 🏢 Company | 💼 Experience | 🎯 Domain |
+|:--------|:-----------|:-------------|:----------|
+| Software Engineer | Tata Consultancy Services | 2+ Years | Stock Market Modernization |
+
+</div>
+
+---
+
+# 🛠 Tech Arsenal
+
+<div align="center">
+
+## Languages
+
+<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,mysql"/>
+
+## Backend
+
+<img src="https://skillicons.dev/icons?i=spring,hibernate,maven"/>
+
+<p>
+
+<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Redis-D82C20?style=for-the-badge&logo=redis&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge"/>
+
 </p>
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
+## Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css,bootstrap"/>
+
+## Database
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+
+<p>
+
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle"/>
+
 </p>
 
----
+## DevOps
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/Divyen-Patil/Divyen-Patil/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
-<img src="https://raw.githubusercontent.com/Divyen-Patil/Divyen-Patil/output/github-contribution-grid-snake.svg#gh-light-mode-only" />
-</p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,aws,azure"/>
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+## Tools
 
-## 🚀 About Me
+<img src="https://skillicons.dev/icons?i=postman,vscode,idea"/>
 
-I'm a **Software Engineer at Tata Consultancy Services (TCS)**, working on modernizing mission-critical systems for the stock market clearing domain — migrating legacy C-based modules into scalable, Java-based microservices.
-
-- 🔭 Currently building distributed backend systems with **Spring Boot**, **Kafka**, and **Redis**
-- 🌱 Deepening my expertise in **System Design**, **Event-Driven Architecture**, and **GenAI Application Development**
-- 💡 Recently certified as an **AWS Certified AI Practitioner (AIF-C01)**
-- 🎯 Focused on writing clean, performant, production-grade code
-- 🎨 Outside of engineering, you'll find me sketching, traveling, or reading something informative
-- 📫 Reach me at **iamdivyen123@gmail.com**
+</div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+# 📊 GitHub Analytics
 
-## 🛠️ Experience
+<div align="center">
 
-### **System Engineer** · Tata Consultancy Services (TCS)
-`Aug 2024 – Present`
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api?username=Divyen-Patil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-- Contributed to the **modernization of a stock market clearing system**, migrating legacy C-based modules to a Java-based microservices architecture — improving scalability and maintainability.
-- Developed and optimized backend services using **Spring Boot**, achieving a **~20% improvement in API response time**.
-- Identified and resolved multiple critical production bugs, enhancing system stability and reducing recurring failures.
-- Owned key modules end-to-end — development, testing, and deployment — within a **Docker + GitLab CI/CD** microservices environment.
-- Performed root cause analysis and implemented long-term fixes for system inefficiencies.
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyen-Patil&layout=compact&theme=tokyonight&hide_border=true"/>
 
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
-
-## 💼 Featured Projects
-
-### 🏦 [BankSphere — Digital Banking Platform](https://github.com/Divyen-Patil)
-`Jan 2026 – May 2026`
-
-A scalable digital banking platform supporting account management, fund transfers, and loan processing.
-
-- Built and optimized **25+ REST APIs**, improving average response time by **~30%**
-- Implemented **Spring Security + JWT** authentication
-- Integrated **Spring Cloud Gateway** & **Eureka Server** for secure communication and service discovery
-- Leveraged **Redis caching** + **Docker** to handle **10,000+ daily transactions**
-
-`Spring Boot` `Spring Security` `JWT` `Redis` `Docker` `Eureka` `Spring Cloud Gateway`
+</div>
 
 ---
 
-### 📈 [TradeX — Real-Time Stock Trading Platform](https://github.com/Divyen-Patil)
-`Oct 2025 – Dec 2025`
+<div align="center">
 
-A real-time trading platform enabling portfolio management, order placement, and live market tracking.
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Divyen-Patil&theme=tokyonight&hide_border=true"/>
 
-- Implemented **WebSocket-based market data streaming** with sub-second latency
-- Designed scalable REST APIs handling **5,000+ concurrent trade requests**
-- Used **Redis caching** to cut market data retrieval time by **~60%**
-- Containerized services with **Docker**, integrated **Kafka** for asynchronous trade execution & notifications
-
-`Spring Boot` `React` `WebSocket` `Kafka` `Redis` `Docker`
+</div>
 
 ---
 
-### 🛒 [CommerceHub — E-Commerce Microservices Platform](https://github.com/Divyen-Patil)
-`Jul 2025 – Sep 2025`
+# 🏆 GitHub Trophies
 
-A distributed e-commerce platform supporting product catalog, cart, order, and payment services.
+<div align="center">
 
-- Built **30+ REST APIs** with **Kafka-based event-driven communication**
-- Integrated **Redis caching** for product catalog data — **~45% faster** API responses during peak traffic
-- Streamlined deployment and service discovery using **Docker**, **Spring Cloud Gateway**, and **Eureka Server**
+<img src="https://github-profile-trophy.vercel.app/?username=Divyen-Patil&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
 
-`Spring Boot` `React` `Kafka` `Redis` `Docker` `Microservices`
+</div>
 
 ---
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%">
+# 📈 Contribution Activity
 
-## 🧰 Tech Stack
+<div align="center">
 
-**Languages**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Divyen-Patil&theme=tokyo-night&hide_border=true"/>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-**Frameworks & Backend**
-
-![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-**Tools & Design**
-
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+</div>
 
 ---
 
-## 🎓 Education
+# 🔥 Developer Mindset
 
-**Bachelor of Engineering, Computer Engineering**
-TSSM BSCOER · Savitribai Phule Pune University
-`2020 – 2024` · **CGPA: 9.33 / 10**
+> "Code is not just written to solve today's problem. Great code solves tomorrow's problems too."
 
 ---
 
-## 📜 Certifications & Achievements
+# ⚙️ Currently Working With
 
-- 🏅 **AWS Certified AI Practitioner (AIF-C01)** — Amazon Web Services, *Jun 2026*
-  Validated knowledge of AI, ML, Generative AI, foundation models, and LLMs — including prompt engineering, responsible AI practices, and AWS AI services for building and deploying AI-powered applications.
+```text
+Java                     ████████████████████
+
+Spring Boot              ███████████████████
+
+Microservices            ██████████████████
+
+REST APIs                ███████████████████
+
+Kafka                    ████████████████
+
+Redis                    ███████████████
+
+Docker                   ███████████████
+
+System Design            ███████████████
+
+AWS                      █████████████
+
+GenAI                    ██████████
+```
 
 ---
 
-## 🧭 Industry Skills
-
-`Microservices Development` `REST API Development` `System Design` `Distributed Systems` `Event-Driven Architecture` `JUnit Testing` `GenAI Application Development` `Cybersecurity`
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2d6c7c0e-95b5-4c0d-9ef5-8bb9608d1f0b.gif">
 
 ---
 
-## 🌐 Connect with Me
+# 💼 Professional Experience
 
-<p align="left">
-<a href="https://linkedin.com/in/divyen-patil" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:iamdivyen123@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://medium.com/@Divyenpatil" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-<a href="https://github.com/Divyen-Patil" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://instagram.com/Divyen" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-</p>
+<div align="center">
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+                 PROFESSIONAL JOURNEY
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+</div>
+
+## 🏢 Tata Consultancy Services (TCS)
+
+### **Software Engineer**
+📅 **August 2024 – Present**
+
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+### 🚀 What I Do
+
+- Modernizing mission-critical **Stock Market Clearing Systems**
+- Migrating legacy **C-based applications** to **Java Microservices**
+- Developing scalable backend services using **Spring Boot**
+- Designing and optimizing REST APIs
+- Debugging and resolving production issues
+- Performance optimization and root cause analysis
+- Working in Agile development environment
+- CI/CD using GitLab
+- Docker-based deployments
+
+### ⚡ Key Contributions
+
+✅ Improved API performance by approximately **20%**
+
+✅ Successfully resolved multiple production-critical issues
+
+✅ Developed reusable backend modules
+
+✅ Contributed to microservice migration strategy
+
+✅ Enhanced maintainability of legacy applications
+
+<br clear="right"/>
 
 ---
 
-<p align="center">
-<i>"Continuously learning, continuously building."</i>
-</p>
+# 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Divyen-Patil&label=Profile%20Views&color=A855F7&style=flat" alt="Profile views" />
-</p>
+<div align="center">
+
+# ⭐ Project Portfolio
+
+Building scalable applications using modern backend technologies.
+
+</div>
+
+---
+
+# 🏦 BankSphere
+
+### Enterprise Digital Banking Platform
+
+<img align="right" width="320" src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif">
+
+### 📖 Overview
+
+A production-inspired banking platform built using a complete microservices architecture.
+
+Supports
+
+- Account Management
+- Money Transfer
+- Loan Processing
+- Authentication
+- Customer Management
+
+---
+
+### ✨ Features
+
+✔ JWT Authentication
+
+✔ Spring Security
+
+✔ Eureka Server
+
+✔ Spring Cloud Gateway
+
+✔ REST APIs
+
+✔ Docker Deployment
+
+✔ Redis Caching
+
+✔ MySQL
+
+---
+
+### 📈 Highlights
+
+🚀 Developed more than **25 REST APIs**
+
+⚡ Reduced response time by **30%**
+
+🔒 Secure authentication using JWT
+
+📦 Containerized services with Docker
+
+🌐 API Gateway for centralized routing
+
+🔍 Eureka for service discovery
+
+---
+
+### 🏗 Architecture
+
+```text
+                Client
+
+                   │
+
+           Spring Cloud Gateway
+
+                   │
+
+     ┌──────────┬──────────┐
+
+     │          │          │
+
+ Account     Loan      Customer
+
+ Service    Service    Service
+
+     │          │          │
+
+      ─────── Redis ───────
+
+                   │
+
+                 MySQL
+```
+
+---
+
+### 🛠 Tech Stack
+
+`Java`
+
+`Spring Boot`
+
+`Spring Security`
+
+`JWT`
+
+`Docker`
+
+`Redis`
+
+`MySQL`
+
+`Microservices`
+
+`Spring Cloud Gateway`
+
+`Eureka`
+
+---
+
+# 📈 TradeX
+
+### Real-Time Stock Trading Platform
+
+<img align="right" width="320" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif">
+
+### 📖 Overview
+
+A distributed trading platform capable of handling concurrent trading requests with real-time market updates.
+
+---
+
+### Features
+
+✔ Portfolio Management
+
+✔ Buy/Sell Orders
+
+✔ Real-Time Market Feed
+
+✔ Notifications
+
+✔ Redis Cache
+
+✔ Kafka Events
+
+✔ Docker Deployment
+
+---
+
+### Achievements
+
+⚡ 5000+ concurrent trade requests
+
+⚡ Redis reduced lookup latency by 60%
+
+⚡ Kafka enabled asynchronous trade execution
+
+⚡ WebSocket live price streaming
+
+---
+
+### Architecture
+
+```text
+              Client
+
+                 │
+
+           API Gateway
+
+                 │
+
+     ┌────────┬────────┐
+
+     │        │        │
+
+ Trading   Portfolio Market
+
+ Service   Service    Feed
+
+     │        │        │
+
+         Kafka Events
+
+              │
+
+            Redis
+
+              │
+
+            MySQL
+```
+
+---
+
+### Tech Stack
+
+`Spring Boot`
+
+`Kafka`
+
+`Redis`
+
+`Docker`
+
+`WebSocket`
+
+`React`
+
+`MySQL`
+
+---
+
+# 🛒 CommerceHub
+
+### Enterprise E-Commerce Platform
+
+<img align="right" width="320" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif">
+
+### 📖 Overview
+
+A scalable microservices-based e-commerce platform supporting product management, cart, ordering and payment workflows.
+
+---
+
+### Features
+
+✔ Product Catalog
+
+✔ Shopping Cart
+
+✔ Order Service
+
+✔ Payment Service
+
+✔ Event Driven Architecture
+
+✔ Redis Cache
+
+✔ Docker
+
+---
+
+### Highlights
+
+🚀 Developed 30+ REST APIs
+
+⚡ Kafka-based communication
+
+⚡ 45% faster API responses
+
+⚡ Redis product caching
+
+⚡ Spring Cloud Gateway
+
+⚡ Eureka Discovery
+
+---
+
+### Architecture
+
+```text
+               Browser
+
+                  │
+
+             API Gateway
+
+                  │
+
+  Product   Cart   Order   Payment
+
+      │       │      │        │
+
+      └──── Kafka Event Bus ───┘
+
+                  │
+
+               Redis
+
+                  │
+
+                MySQL
+```
+
+---
+
+### Tech Stack
+
+`Spring Boot`
+
+`Kafka`
+
+`Redis`
+
+`Docker`
+
+`React`
+
+`MySQL`
+
+`Microservices`
+
+`Gateway`
+
+`Eureka`
+
+---
+
+# 📜 Certifications
+
+<div align="center">
+
+## 🏅 AWS Certified AI Practitioner
+
+<img width="180" src="https://media.giphy.com/media/26BRv0ThflsHCqDrG/giphy.gif">
+
+</div>
+
+### Highlights
+
+✔ Foundation Models
+
+✔ Prompt Engineering
+
+✔ Responsible AI
+
+✔ AWS AI Services
+
+✔ Machine Learning Fundamentals
+
+✔ Generative AI
+
+✔ Large Language Models
+
+---
+
+# 🏆 Career Highlights
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💼 2+ Years Professional Experience
+
+🏦 Enterprise Stock Market Project
+
+🚀 80+ REST APIs Developed
+
+⚡ Production Issue Resolution
+
+📦 Microservices Architecture
+
+☁ AWS AI Certified
+
+🧠 Passionate System Designer
+
+🤖 GenAI Enthusiast
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+| Technology | Progress |
+|------------|----------|
+| Kubernetes | 🟩🟩🟩🟩⬜ |
+| AWS Developer | 🟩🟩🟩⬜⬜ |
+| System Design | 🟩🟩🟩🟩🟩 |
+| GenAI | 🟩🟩🟩🟩⬜ |
+| LLM Applications | 🟩🟩🟩⬜⬜ |
+| Distributed Systems | 🟩🟩🟩🟩⬜ |
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/74038190/212744275-2d6c7c0e-95b5-4c0d-9ef5-8bb9608d1f0b.gif">
+
+---
+
