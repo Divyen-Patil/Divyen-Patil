@@ -158,5 +158,5 @@ TSSM BSCOER · Savitribai Phule Pune University
 </p>
 
 <p align="center">
-<img src="https://visitcount.itsvg.in/api?id=Divyen-Patil&icon=0&color=0" />
+  <img src="https://komarev.com/ghpvc/?username=Divyen-Patil&label=Profile%20Views&color=A855F7&style=flat" alt="Profile views" />
 </p>
